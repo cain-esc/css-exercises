@@ -35,5 +35,10 @@ body {
 
 button {
   background: white;
+  text-align: center;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 8px;
+  padding-bottom: 8px;
   border: 1px solid #eee;
 }
